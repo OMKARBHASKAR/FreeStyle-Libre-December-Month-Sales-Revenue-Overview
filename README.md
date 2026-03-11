@@ -48,4 +48,4 @@ Detailed insights and business recommendations are intentionally **not included 
 
 ## Author
 **Omkar Pawar**  
-Aspiring Data Analyst
+ Data Analyst
