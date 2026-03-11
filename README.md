@@ -36,7 +36,7 @@ The dashboard converts transactional sales data into clear visual metrics to hel
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](C:\Users\omkar\OneDrive\Pictures\Screenshots)
 
 ---
 
